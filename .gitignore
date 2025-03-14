@@ -1,0 +1,15 @@
+*.log
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+.vite/
